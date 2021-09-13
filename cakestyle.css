@@ -152,8 +152,4 @@ footer {
     color: black;
     text-align: center;
     font-weight: bold;
-}   
-
-footer > a:visited {
-    color: black;
 }
