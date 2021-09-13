@@ -53,6 +53,10 @@ a {
     text-decoration: none;
 }
 
+.a:visited {
+    color:black;
+}
+
 .menu li a:hover {
     background-color: #23cdaf;
     color: white;
