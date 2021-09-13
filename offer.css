@@ -118,3 +118,12 @@ footer {
     text-align: center;
     font-weight: bold;
 }
+
+footer > a {
+    color: black;
+    font-size: 2em;
+}
+
+footer > a:visited {
+    color: black;
+}
