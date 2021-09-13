@@ -53,10 +53,6 @@ a {
     text-decoration: none;
 }
 
-a:visited {
-    color: black;
-}
-
 .menu li a:hover {
     background-color: #23cdaf;
     color: white;
@@ -157,3 +153,7 @@ footer {
     text-align: center;
     font-weight: bold;
 }   
+
+footer > a:visited {
+    color: black;
+}
